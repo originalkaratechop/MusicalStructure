@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">MusicalStructure</string>
+
+    <string name="artist0">ze_artist0</string>
+    <string name="artist1">ze_artist1</string>
+    <string name="artist2">ze_artist2</string>
+    <string name="artist3">ze_artist3</string>
+    <string name="artist4">ze_artist4</string>
+    <string name="artist5">ze_artist5</string>
+    <string name="artist6">ze_artist6</string>
+    <string name="artist7">ze_artist7</string>
+    <string name="artist8">ze_artist8</string>
+    <string name="artist9">ze_artist3</string>
+
+    <string name="trackTitle0">ze_trackName0</string>
+    <string name="trackTitle1">ze_trackName1</string>
+    <string name="trackTitle2">ze_trackName2</string>
+    <string name="trackTitle3">ze_trackName3</string>
+    <string name="trackTitle4">ze_trackName4</string>
+    <string name="trackTitle5">ze_trackName5</string>
+    <string name="trackTitle6">ze_trackName6</string>
+    <string name="trackTitle7">ze_trackName7</string>
+    <string name="trackTitle8">ze_trackName8</string>
+    <string name="trackTitle9">ze_trackName9</string>
+
+    <string name="album0">ze_album0</string>
+    <string name="album1">ze_album1</string>
+    <string name="album2">ze_album2</string>
+    <string name="album3">ze_album3</string>
+    <string name="album4">ze_album4</string>
+    <string name="album5">ze_album5</string>
+    <string name="album6">ze_album6</string>
+    <string name="album7">ze_album7</string>
+    <string name="album8">ze_album8</string>
+    <string name="album9">ze_album9</string>
+
+    <string name="length0">0:10</string>
+    <string name="length1">0:11</string>
+    <string name="length2">0:12</string>
+    <string name="length3">0:13</string>
+    <string name="length4">0:14</string>
+    <string name="length5">0:15</string>
+    <string name="length6">0:16</string>
+    <string name="length7">0:17</string>
+    <string name="length8">0:18</string>
+    <string name="length9">0:19</string>
+</resources>
